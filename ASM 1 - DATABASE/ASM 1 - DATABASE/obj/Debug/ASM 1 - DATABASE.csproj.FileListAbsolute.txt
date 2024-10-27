@@ -1,0 +1,19 @@
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\bin\Debug\ASM 1 - DATABASE.exe.config
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\bin\Debug\ASM 1 - DATABASE.exe
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\bin\Debug\ASM 1 - DATABASE.pdb
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\obj\Debug\ASM 1 - DATABASE.csproj.AssemblyReference.cache
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\obj\Debug\ASM_1___DATABASE.Form1.resources
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\obj\Debug\ASM_1___DATABASE.Properties.Resources.resources
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\obj\Debug\ASM 1 - DATABASE.csproj.GenerateResource.cache
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\obj\Debug\ASM 1 - DATABASE.csproj.CoreCompileInputs.cache
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\obj\Debug\ASM 1 - DATABASE.exe
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\obj\Debug\ASM 1 - DATABASE.pdb
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\obj\Debug\ASM_1___DATABASE.Form2.resources
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\obj\Debug\ASM_1___DATABASE.Form3.resources
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\obj\Debug\ASM_1___DATABASE.Form4.resources
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\obj\Debug\ASM_1___DATABASE.Form5.resources
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\obj\Debug\ASM_1___DATABASE.Form10.resources
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\obj\Debug\ASM_1___DATABASE.Form6.resources
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\obj\Debug\ASM_1___DATABASE.Form7.resources
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\obj\Debug\ASM_1___DATABASE.Form8.resources
+D:\Database.Class\ASM 1 - DATABASE\ASM 1 - DATABASE\obj\Debug\ASM_1___DATABASE.Form9.resources
